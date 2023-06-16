@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-title: Patrick Cook portfolio website?
+title: Patrick portfolio website?
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,7 +10,7 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Patrick, this is a test for a portfolio website - we'll see what happens!
   blog: {}
   contact:
     address:
