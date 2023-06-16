@@ -81,7 +81,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
+      - image: lbs.jpg
         subtitle: Ipsum Dolor Sit Amet (slightly less big one)
         title: Big One!
         url: blogs/aliquam
